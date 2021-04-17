@@ -1,7 +1,6 @@
 # > BBC iPlayer
 USER-AGENT,BBCiPlayer*
 DOMAIN-KEYWORD,bbcfmt
-DOMAIN,a753.w10.akamai.net
 DOMAIN,akamaized.net
 DOMAIN,aod-dash-uk-live.akamaized.net
 DOMAIN,aod-hls-uk-live.akamaized.net
@@ -9,6 +8,7 @@ DOMAIN,vod-dash-uk-live.akamaized.net
 DOMAIN,vod-thumb-uk-live.akamaized.net
 DOMAIN,vod-sub-uk-live.akamaized.net
 DOMAIN,ssl-bbcdotcom.2cnt.net
+DOMAIN-SUFFIX,w10.akamai.net
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
