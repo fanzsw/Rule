@@ -9,6 +9,7 @@ DOMAIN,vod-hls-uk-live.akamaized.net
 DOMAIN,vod-thumb-uk-live.akamaized.net
 DOMAIN,vod-sub-uk-live.akamaized.net
 DOMAIN,ssl-bbcdotcom.2cnt.net
+DOMAIN,bbcios.2cnt.net
 DOMAIN-SUFFIX,w10.akamai.net
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bidi.bbc.co.uk
